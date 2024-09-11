@@ -12,7 +12,7 @@ This is a repository that uses the preview of Walrus storage to create a prototy
 8. Navigate to second folder (Walrus_HApp.Desktop).
 9. Do /dotnet build
 
-The compiled application reside within **bin/debug/net8.0**.
+The compiled application reside within **Walrus_HApp.Desktop/bin/debug/net8.0**.
 
 ## Running
 1. Do all the steps in building.
