@@ -1,6 +1,8 @@
 # Walrus_HApp
 This is a repository that uses the preview of Walrus storage to create a prototype version of simple PKI/CA.
 
+**AggregatorHelper.cs,CryptographicSecureIDGenerator.cs,UploadFileHelper.cs** is under the license of MIT. 
+
 ## Building
 1. Navigate to [this website](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 2. Download and install SDK.
