@@ -3,6 +3,8 @@ This is a repository that uses the preview of Walrus storage to create a prototy
 
 **AggregatorHelper.cs,CryptographicSecureIDGenerator.cs,UploadFileHelper.cs** is under the license of MIT. 
 
+**All Model classes** are licensed under MIT. 
+
 ## Building
 1. Navigate to [this website](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 2. Download and install SDK.
